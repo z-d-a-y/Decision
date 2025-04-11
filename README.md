@@ -1,5 +1,5 @@
 Its a program that gives you options, and each option has its own options.
-2 Option at first ( 1.numbers, 2.words ) Then each has 3 option.
+2 Options at first ( 1.numbers, 2.words ) Then each has 3 option (1,2,3) for num and (a,b,c) for words.
 
 This is my first complex C++ program that i've ever done.
 
